@@ -2,7 +2,7 @@
 ######Native Build
 Just type "make"
 ######Cross-Compile
-export CROSS_COMPILE=\<path\>
+export CROSS_COMPILE=\<path\>   
 export SYSROOT=\<path\>  
 make  
 
