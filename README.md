@@ -1,6 +1,9 @@
 ##Building
-export CROSS_COMPILE=\<path\> (for ARM)  
-export SYSROOT=\<path\> (for ARM)  
+######Native Build
+Just type "make"
+######Cross-Compile
+export CROSS_COMPILE=\<path\>
+export SYSROOT=\<path\>  
 make  
 
 ##Clean
