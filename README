@@ -1,0 +1,8 @@
+* Copyright (c) 2013-2014 Alireza Forozandeh Nezhad
+* licenced Under terms of GPL 2.0
+
+* build :
+
+$ export CROSS_COMPILE=arm-unknown-linux-gnueabi- // change based on your cross compiler
+$ make
+
